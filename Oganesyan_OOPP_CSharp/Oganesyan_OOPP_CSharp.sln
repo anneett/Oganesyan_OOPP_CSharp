@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35514.174 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oganesyan_OOPP_CSharp", "Oganesyan_OOPP_CSharp.csproj", "{AC48FEDD-4C8A-4012-8C7C-442F067C4FAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC48FEDD-4C8A-4012-8C7C-442F067C4FAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC48FEDD-4C8A-4012-8C7C-442F067C4FAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC48FEDD-4C8A-4012-8C7C-442F067C4FAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC48FEDD-4C8A-4012-8C7C-442F067C4FAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
